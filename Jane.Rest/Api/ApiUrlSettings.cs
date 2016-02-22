@@ -8,6 +8,6 @@ namespace Jane.Rest.Api
 {
     public class ApiUrlSettings
     {
-        public const string Authenticate = "public/authenticate/checkauthentication";
+        public const string Authenticate = "/api/public/authenticate/checkauthentication";
 }
 }
